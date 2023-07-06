@@ -10,8 +10,8 @@ The sample size of our data is 159 and there are 20 features.
 We have done hypothesis tests to understand how the association between different features in our data set. The two kinds of hypothesis tests that were applicable to our data were the Chi-Square Test of Association and the Z test for proportion. 
 The Hypothesis of the Chi-Square Test:
 1.	There is an association between monthly income and the use of ATM cards. 
-2.	There is an association between locality and the use of Credit cards. 
-3.	There is an association between locality and the Use of Net Banking.
+2.	There is no association between locality and the use of Credit cards. 
+3.	There is no association between locality and the Use of Net Banking.
 4.	There is an association between Job Type and the use of Credit Cards.
 5.	There is an association between Educational Qualifications and the use of Credit cards. 
 
